@@ -1,20 +1,17 @@
-# Ilton Garcia dos Santos Silveira - [Data Scientist/Engineer & FullStack Developer] 👋
+# Thomas Henrique Montipó Guimarães - [Data Scientist/Engineer & FullStack Developer] 👋
 
-I´m software & data engineer who love new challenges & OpenSource contributions. My goal is to bring Science, Technology & the God's love word all over the world.
+I´m software & data engineer who love new challenges & OpenSource contributions. My goal is to bring Science, Technology & make the world a better place.
 
-- :computer: I’m currently working on Data Science for HealthTech (twice award winner) & Marketing + Drop Shipping
-- :chart_with_upwards_trend: I’m currently working on CryptoCurrency SmartContracts & FinTech
-- :books: I’m constantly learning & improving my skills (data science, virtual reality and full stack develoer (web(front+back) & mobile))
-- :moneybag: I’m looking for Data challenges to collaborate to world growth & DeFi chllanges to contribute to the Money Revolution
+- :computer: I’m currently working on RCO Engenharia with continuous improvement and studying front-end development;
+- :books: I’m constantly learning & improving my skills (HTML, CSS3 and javascript)
+- :moneybag: I'm looking for challenges that make me professional in addition to bringing solutions that can grow and improve people's lives.
+
+--------
 
 **Connect with me:**
 
-<a href="https://www.linkedin.com/in/ilton-silveira/" target="_blank">
+<a href="https://www.linkedin.com/in/thomas-montipo/" target="_blank">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/TonGarcia/TonGarcia/a90787c330a000ada45a386828d54eb86ed78d7f/linkedin.svg" style="max-width:100%;">
-</a>
-
-<a href="https://www.youtube.com/channel/UCfsI-F8KtcNFpmxg7zMid-w" target="_blank">
-  <img align="left" width="30px" src="https://github.com/TonGarcia/TonGarcia/blob/main/youtube-sm.png?raw=true" style="max-width:100%;">
 </a>
 
 <br>
@@ -69,4 +66,4 @@ I´m software & data engineer who love new challenges & OpenSource contributions
 <hr>
 
 
-<img align="left" alt="Ilton GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=TonGarcia&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=TonGarcia&amp;show_icons=true&amp;hide_border=true" style="max-width:100%;">
+<img align="left" alt="Thomas GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=thomasmontipo&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thomasmontipo&amp;show_icons=true&amp;hide_border=true" style="max-width:100%;">

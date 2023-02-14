@@ -1,4 +1,4 @@
-# Thomas Henrique Montipó Guimarães - [Data Scientist/Engineer & FullStack Developer] 👋
+# Thomas Henrique Montipó Guimarães - [Engineer & FullStack Developer] 👋
 
 I´m software & data engineer who love new challenges & OpenSource contributions. My goal is to bring Science, Technology & make the world a better place.
 

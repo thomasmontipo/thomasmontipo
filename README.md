@@ -2,8 +2,8 @@
 
 I´m software & data engineer who love new challenges & OpenSource contributions. My goal is to bring Science, Technology & make the world a better place.
 
-- :computer: I’m currently working on RCO Engenharia with continuous improvement and studying front-end development;
-- :books: I’m constantly learning & improving my skills (HTML, CSS3 and javascript)
+- :computer: I’m currently working on Manusis as a full-stack developer with ruby on rails and Ext.JS;
+- :books: I’m constantly learning & improving my skills (backend and frontend)
 - :moneybag: I'm looking for challenges that make me professional in addition to bringing solutions that can grow and improve people's lives.
 
 --------
